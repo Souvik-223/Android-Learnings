@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SongLoop</string>
+    <string name="textview">TextView</string>
+</resources>
